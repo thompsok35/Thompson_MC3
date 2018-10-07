@@ -1,9 +1,11 @@
  /* 
    Programmer:    Keith Thompson
    Program Name:  Thompson_MobileServiceProvider.java
-  	Date:          October 6, 2018
+   Date:          October 6, 2018
    
-  	Purpose: 
+   This is the "Test-Edit" branch of this code
+   
+  Purpose: 
       This program calculates a customer’s monthly internet service bill based on one of 
       three potential pricing plans. The customer is asked the enter the package type 
       (A,B or C) and the number of calling minutes used for the month. The program 
@@ -47,7 +49,7 @@ public class Thompson_MobileServiceProvider {
 	      //Declare the constant variables 
 		   final double PKGA_RATE = 39.99;
 	      final double PKGB_RATE = 59.99;
-	      final double PKGC_RATE = 69.99;
+	      final double PKGC_RATE = 79.99;
 		   final int PKGA_MIN_LIMIT = 450;
 	      final int PKGB_MIN_LIMIT = 900;
 	      final double PKGA_MIN_RATE = 0.45;
