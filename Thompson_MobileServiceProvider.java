@@ -1,9 +1,11 @@
  /* 
    Programmer:    Keith Thompson
    Program Name:  Thompson_MobileServiceProvider.java
-  	Date:          October 6, 2018
+   Date:          October 6, 2018
    
-  	Purpose: 
+   This is the "Test-Edit" branch of this code
+   
+  Purpose: 
       This program calculates a customer’s monthly internet service bill based on one of 
       three potential pricing plans. The customer is asked the enter the package type 
       (A,B or C) and the number of calling minutes used for the month. The program 
