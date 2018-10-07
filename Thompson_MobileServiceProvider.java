@@ -49,7 +49,7 @@ public class Thompson_MobileServiceProvider {
 	      //Declare the constant variables 
 		   final double PKGA_RATE = 39.99;
 	      final double PKGB_RATE = 59.99;
-	      final double PKGC_RATE = 69.99;
+	      final double PKGC_RATE = 79.99;
 		   final int PKGA_MIN_LIMIT = 450;
 	      final int PKGB_MIN_LIMIT = 900;
 	      final double PKGA_MIN_RATE = 0.45;
